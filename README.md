@@ -203,7 +203,7 @@ Or open `scraper/playhq_scraper.ipynb` in Jupyter for a cell-by-cell walk-throug
 
 ### 4 — Load into Power BI
 
-Power BI Desktop → **Get Data → Folder** → point at `./data`. Follow [`docs/setup-guide.md`](docs/setup-guide.md) for the model relationships and DAX measure library.
+Power BI Desktop → **Get Data → Folder** → point at `./data`. Follow [`Docs/setup-guide.md`](Docs/setup-guide.md) for the model relationships and DAX measure library.
 
 ---
 
@@ -235,7 +235,7 @@ The scraper produces a clean star schema:
                    └──────────────┘
 ```
 
-Full schema documentation in [`docs/data-model.md`](docs/data-model.md).
+Full schema documentation in [`Docs/data-model.md`](Docs/data-model.md).
 
 ---
 
@@ -250,7 +250,7 @@ The final Power BI report has four pages:
 | **Bowling Stats** | Full team bowling leaderboard: wickets, economy, average, best figures, 3wi/5wi |
 | **Impact Analysis** | Three-column comparison — Overall vs In Winning Games vs vs Top-Half Ladder Teams — for batting and bowling |
 
-See [`report/Southern-Strikers-Winter26-Report.pdf`](report/Southern-Strikers-Winter26-Report.pdf) for the full export.
+See [`Report/Southern-Strikers-Winter26-Report.pdf`](Report/Southern-Strikers-Winter26-Report.pdf) for the full export.
 
 ---
 
