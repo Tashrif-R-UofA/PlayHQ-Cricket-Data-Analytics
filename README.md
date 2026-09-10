@@ -2,7 +2,7 @@
 
 End-to-end analytics pipeline that turns publicly-available cricket scorecard data into an interactive Power BI performance dashboard for a local T20 club side (Southern Strikers, Adelaide SA).
 
-Built by [Tashrif Rayhan](https://www.linkedin.com/in/md-tashrif-ibn-rayhan/), combines reverse-engineered GraphQL data extraction, Python-based ETL, star-schema modelling, and DAX-driven business intelligence.
+This project combines reverse-engineered GraphQL data extraction, Python-based ETL, star-schema modelling, and DAX-driven business intelligence.
 
 ---
 
