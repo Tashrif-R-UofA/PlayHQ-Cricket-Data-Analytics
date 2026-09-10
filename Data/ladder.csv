@@ -1,0 +1,25 @@
+competition,position,team_id,team_name,played,won,lost,drawn,ties,no_results,byes,forfeits,competition_points,points_for,points_against,points_difference,percentage,net_run_rate,runs_for,overs_faced,wickets_lost,runs_against,overs_bowled,wickets_taken
+PASA Multicultural T20 Winter 2026,1,dc179f6d,Royal Kings XI,14,12,2,0,0,0,1,0,48,2201,1825,376,120.6,2.414,2201,238.3,77,1825,267.5,103
+PASA Multicultural T20 Winter 2026,2,f8fefefa,Punjab Lions CC,14,11,2,0,1,0,2,0,46,1708,1308,400,130.58,2.901,1708,191.4,52,1213,201.5,83
+PASA Multicultural T20 Winter 2026,3,83d1c943,SBS Strikers,14,11,3,0,0,0,2,0,44,2002,1680,322,119.17,1.645,1925,223.4,69,1680,241.2,99
+PASA Multicultural T20 Winter 2026,4,9f25f117,Punjab Power Squad,14,10,4,0,0,0,2,0,40,1608,1536,72,104.69,0.327,1608,200.0,79,1536,199.1,73
+PASA Multicultural T20 Winter 2026,5,dd4aac8a,Adelaide Gladiators CC,14,9,5,0,0,0,2,0,36,1736,1517,219,114.44,0.91,1736,207.5,62,1517,203.5,66
+PASA Multicultural T20 Winter 2026,6,61528fb4,Punjabi Slogger's,14,9,5,0,0,0,1,0,36,2112,1732,380,121.94,1.558,2112,244.3,88,1732,244.4,87
+PASA Multicultural T20 Winter 2026,7,bb78b417,Pashtun Cricket Club,14,9,5,0,0,0,2,0,36,1832,1878,-46,97.55,0.077,1832,231.4,83,1878,239.5,84
+PASA Multicultural T20 Winter 2026,8,4b91d37a,Lankan Hawks Cricket Club,14,8,5,0,1,0,1,0,34,1945,1779,166,109.33,1.188,1945,231.4,70,1797,249.2,95
+PASA Multicultural T20 Winter 2026,9,33d20e37,Southern Strikers,14,8,6,0,0,0,1,0,32,1582,1584,-2,99.87,-0.109,1582,230.1,77,1584,226.5,81
+PASA Multicultural T20 Winter 2026,10,4ffca3b9,Youngsters XI,14,5,9,0,0,0,1,0,20,1472,1865,-393,78.93,-2.1,1472,234.2,87,1865,222.3,68
+PASA Multicultural T20 Winter 2026,11,69331fac,Dominators B,14,4,7,0,0,0,1,3,16,1089,1255,-166,86.77,-1.317,1089,180.0,72,1255,170.2,53
+PASA Multicultural T20 Winter 2026,12,5985b01c,SA Marines,14,3,10,0,0,0,1,1,12,1436,1944,-508,73.87,-2.333,1436,258.2,101,1944,246.2,81
+PASA Multicultural T20 Winter 2026,13,889dc370,SEA Thunders,15,2,10,0,0,0,0,3,8,1363,1783,-420,76.44,-2.785,1363,234.1,99,1783,207.1,73
+PASA Multicultural T20 Winter 2026,14,471fad4a,Afghan Warriors,12,1,2,0,1,0,4,7,6,691,710,-19,97.32,-1.783,691,100.0,36,710,81.4,19
+PASA Multicultural T20 Winter 2026,15,d5373a07,Royal Strikers,13,0,6,0,1,0,3,6,2,576,957,-381,60.19,-3.04,576,115.1,52,957,119.0,39
+SACA Autumn Super Cricket T20 Winter 2026,1,e5411222,Adelaide Warriors Cricket Club,7,7,0,0,0,0,0,0,56,1215,808,407,150.37,4.029,1136,107.0,41,808,122.4,52
+SACA Autumn Super Cricket T20 Winter 2026,2,1852b34a,Ceylon Tuskers D,6,5,1,0,0,0,1,0,40,590,583,7,101.2,1.533,590,75.5,27,583,93.2,41
+SACA Autumn Super Cricket T20 Winter 2026,3,56d983ca,Sunrisers ,6,3,2,0,0,1,1,0,28,756,836,-80,90.43,0.442,756,98.5,35,836,116.0,39
+SACA Autumn Super Cricket T20 Winter 2026,4,3ec0aaa2,Adelaide Risers,6,3,3,0,0,0,1,0,24,710,792,-82,89.65,0.543,710,96.4,30,713,104.5,49
+SACA Autumn Super Cricket T20 Winter 2026,5,09ebbf83,Markhors,7,3,3,0,0,1,0,0,28,1020,865,155,117.92,-0.024,1020,140.0,55,865,118.2,46
+SACA Autumn Super Cricket T20 Winter 2026,6,05d2a99e,Adelaide Aryans CC - Theta,6,2,4,0,0,0,1,0,16,758,757,1,100.13,-1.07,758,109.4,44,757,94.5,35
+SACA Autumn Super Cricket T20 Winter 2026,7,ec20e3eb,Vikings ,6,2,4,0,0,0,1,0,16,650,948,-298,68.57,-2.316,650,112.2,45,948,117.0,43
+SACA Autumn Super Cricket T20 Winter 2026,8,b57b8e01,Adelaide Falcons,6,1,5,0,0,0,1,0,8,904,971,-67,93.1,-1.524,904,114.1,46,971,102.5,36
+SACA Autumn Super Cricket T20 Winter 2026,9,57c57ec5,Southern Strikers,6,1,4,0,0,0,1,1,6,633,676,-43,93.64,-1.659,633,99.5,44,676,84.3,26
