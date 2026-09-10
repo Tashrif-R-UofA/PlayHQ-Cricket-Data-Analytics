@@ -26,7 +26,7 @@ Built by [Tashrif Rayhan](https://www.linkedin.com/in/md-tashrif-ibn-rayhan/), c
 - **Captaincy split**: T. Rayhan 64 % win rate (9 games), N. Kataria 33 % (3 games), A. Bansod 17 % (6 games).
 - **Impact-in-wins leaders** vs overall leaders diverge, i.e. a batter averages 41.3 in winning games (vs 20.9 overall), showing who steps up when it matters.
 
-The full 4-page PDF report lives in the 'report' folder.
+The full 4-page PDF report lives in the 'Report' folder.
 
 ---
 
