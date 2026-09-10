@@ -1,4 +1,4 @@
-# Southern Strikers PlayHQ Analytics
+# PlayHQ Cricket Data Analytics
 
 End-to-end analytics pipeline that turns publicly-available cricket scorecard data into an interactive Power BI performance dashboard for a local T20 club side (Southern Strikers, Adelaide SA).
 
@@ -281,10 +281,10 @@ Use freely for non-commercial club analytics. Attribution appreciated.
 
 ## Acknowledgments
 
-- **Southern Strikers CC** — for being the guinea pig club and letting me test everything on live data.
-- **PlayHQ** — for building a clean public GraphQL layer that made this achievable without an approved API key.
-- **The Power BI DAX community** — for solving every edge case I hit.
+- **Southern Strikers CC** for being the guinea pig club and letting me test everything on live data.
+- **PlayHQ** for building a clean public GraphQL layer that made this achievable without an approved API key.
+- **The Power BI DAX community** for solving every edge case I hit.
 
 ---
 
-**Contact**: [tashrif.rayhan@gmail.com](mailto:tashrif.rayhan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tashrif-rayhan/)
+**Contact**: [tashrif.rayhan@gmail.com](mailto:tashrif.rayhan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/md-tashrif-ibn-rayhan/)
